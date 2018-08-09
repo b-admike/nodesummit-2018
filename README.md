@@ -1,8 +1,8 @@
 # nodesummit-2018
 
-NodeSummit 2018 Slides.
+## The Art of Extensibility and Composability: Crafting a Foundation for Frameworks and Applications in Node.js with TypeScript
 
-The Art of Extensibility and Composability: Crafting a Foundation for Frameworks and Applications in Node.js with TypeScript
+[NodeSummit 2018 Slides](./NodeSummit.pdf)
 
 ### Summary
 
